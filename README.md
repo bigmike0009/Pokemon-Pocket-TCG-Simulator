@@ -63,7 +63,6 @@ To adjust deck composition see ```src/deck_factory.py```
   - Full rules enforcement
   - Trainer/supporter cards
   - Abilities/Attack abilities
-  - Evolutions
   - AI opponents
   - Comprehensive error handling
 
