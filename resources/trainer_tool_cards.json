@@ -1,0 +1,191 @@
+[
+  {
+    "id": "147",
+    "name": "Giant Cape",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Tool",
+    "evolution_type": "Tool",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_147_EN.webp",
+    "attacks": [],
+    "ability": "The Pokémon this card is attached to gets +20 HP.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #147",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Ryo Ueda",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "148",
+    "name": "Rocky Helmet",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Tool",
+    "evolution_type": "Tool",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_148_EN.webp",
+    "attacks": [],
+    "ability": "If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #148",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Ayaka Yoshida",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "149",
+    "name": "Lum Berry",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Tool",
+    "evolution_type": "Tool",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_149_EN.webp",
+    "attacks": [],
+    "ability": "At the end of each turn, if the Pokémon this card is attached to is affected by any Special Conditions, it recovers from all of them, and discard this card.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #149",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Yoshinobu Saito",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "146",
+    "name": "Poison Barb",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Tool",
+    "evolution_type": "Tool",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_146_EN.webp",
+    "attacks": [],
+    "ability": "If the Pokémon this card is attached to is your Active Pokémon and is damaged by an attack from your opponent's Pokémon, the Attacking Pokémon is now Poisoned.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #146",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Toyste Beach",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "147",
+    "name": "Leaf Cape",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Tool",
+    "evolution_type": "Tool",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_147_EN.webp",
+    "attacks": [],
+    "ability": "The [G] Pokémon this card is attached to gets +30 HP.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #147",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Toyste Beach",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "65",
+    "name": "Electrical Cord",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Tool",
+    "evolution_type": "Tool",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_065_EN.webp",
+    "attacks": [],
+    "ability": "If the [L] Pokémon this card is attached to is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move 2 [L] Energy from that Pokémon and attach 1 Energy each to 2 of your Benched Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Extradimensional Crisis  (A3a)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Extradimensional Crisis #65",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Toyste Beach",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "66",
+    "name": "Beastite",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Tool",
+    "evolution_type": "Tool",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_066_EN.webp",
+    "attacks": [],
+    "ability": "Attacks used by the Ultra Beast this card is attached to do +10 damage to your opponent's Active Pokémon for each point you have gotten.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Extradimensional Crisis  (A3a)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Extradimensional Crisis #66",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "inose yukie",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  }
+]

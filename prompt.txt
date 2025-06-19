@@ -1,0 +1,1 @@
+I would like to add some new functionality to my main gameplay loop that is outlined in the .prd file & GameOutline.txt. The entry file is test_manual_game.py

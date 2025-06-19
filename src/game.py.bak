@@ -1,0 +1,109 @@
+"""Main game loop and player interaction."""
+import random
+from typing import List, Optional
+from .cards import Card
+from .game_state import GameState
+from .pokemon import Pokemon
+
+class Player:
+    def __init__(self, name: str, deck: List[Card]):
+        self.name = name
+        self.deck = deck
+        self.hand: List[Card] = []
+        self.discard_pile: List[Card] = []  # Initialize empty discard pile
+        
+    def draw_card(self) -> Optional[Card]:
+        """Draw a card from the deck."""
+        if not self.deck:
+            return None
+        card = self.deck.pop()
+        self.hand.append(card)
+        return card
+        
+    def discard_card(self, card: Card):
+        """Move a card to the discard pile."""
+        if card in self.hand:
+            self.hand.remove(card)
+        self.discard_pile.append(card)
+        
+    def has_basic_pokemon(self) -> bool:
+        """Check if there's at least one basic Pokemon in hand."""
+        return any(isinstance(card, Pokemon) and card.evolution_type == 'Basic' 
+                  for card in self.hand)
+
+class Game:
+    def __init__(self, player1_name: str, player1_deck: List[Card],
+                 player2_name: str, player2_deck: List[Card], manual: bool = True):
+        self.state = GameState()
+        self.manual = manual
+        
+        # Initialize players        self.state.players = [
+            Player(player1_name, player1_deck),
+            Player(player2_name, player2_deck)
+        ]
+        
+    def setup_game(self):
+        """Perform initial game setup."""
+        # Shuffle decks
+        for player in self.state.players:
+            random.shuffle(player.deck)
+            
+        # Initial draw
+        self._perform_initial_draw()
+        
+        # Coin flip for first player
+        self.state.current_player_idx = random.randint(0, 1)
+        
+    def _perform_initial_draw(self):
+        """Handle initial 5-card draw with basic Pokemon guarantee."""
+        for player in self.state.players:
+            # Draw until we have a basic Pokemon
+            while True:
+                for _ in range(5):
+                    player.draw_card()
+                    
+                if player.has_basic_pokemon():
+                    break
+                    
+                # If no basic Pokemon, shuffle back and redraw
+                player.deck.extend(player.hand)
+                player.hand.clear()
+                random.shuffle(player.deck)
+
+    def run(self):
+        """Main game loop."""
+        self.setup_game()
+
+        while True:
+            # Start of turn
+            if self.state.turn_number > 0:  # No draw on first turn for first player
+                self.state.current_player.draw_card()
+
+            # Display game board if manual
+            if self.manual:
+                self._display_game_board()
+
+            # Main phase
+            self._handle_main_phase()
+
+            # Check win condition
+            winner = self.state.check_win_condition()
+            if winner is not None:
+                return winner
+
+            # End turn
+            self.state.end_turn()
+
+    def _display_game_board(self):
+        """Display the game board for manual games."""
+        print("Displaying game board...")
+        # Placeholder for actual game board rendering logic
+
+    def _handle_main_phase(self):
+        """Handle player actions during main phase."""
+        if self.manual:
+            print("Waiting for player input...")
+            # Placeholder for player input handling logic
+        else:
+            print("Simulating player actions...")
+            # Placeholder for AI decision-making logic

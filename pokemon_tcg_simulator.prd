@@ -1,0 +1,185 @@
+# Pokémon TCG Pocket Simulator PRD
+
+## 1. Product Overview
+The Pokémon TCG Pocket Simulator is a Python-based implementation of the simplified Pokémon Trading Card Game mobile experience. This simulator will allow two players to play the game following the streamlined ruleset of Pokémon TCG Pocket.
+
+## 2. Core Features
+
+### 2.1 Game Components  - **Deck System**
+  - 20-card deck construction
+  - Maximum 2 copies of any card
+  - Support for all card types: Pokémon, Trainer (Support/Item/Tool)
+  - Energy Zone system:
+    - One active energy available at a time
+    - Next energy previewed but not yet available
+    - Energy types drawn randomly from deck's energy pool
+
+- **Card Types Implementation**
+  - Pokémon Cards:
+    - Basic, Stage 1, and Stage 2 evolution tracking
+    - HP, attacks, abilities tracking
+    - Element types and weaknesses
+    - Retreat costs
+    - EX status handling
+  - Trainer Cards:
+    - Supporter cards (once per turn)
+    - Item cards (multiple per turn)
+    - Tool cards (one per Pokémon)
+
+### 2.2 Game Flow
+
+#### Setup Phase
+- Draw 5-card starting hands
+- Basic Pokémon verification
+- Active and Bench Pokémon placement (max 3 bench)
+- First player determination
+
+#### Turn Structure
+1. **Draw Phase**
+   - Card draw
+   - Energy Zone update
+   
+2. **Main Phase**
+   - Basic Pokémon placement
+   - Evolution management
+   - Energy attachment
+   - Trainer card usage
+   - Ability activation
+   - Retreat mechanics
+
+3. **Attack Phase**
+   - Attack execution
+   - Damage calculation
+   - Effect application
+   - Points tracking
+
+4. **End Phase**
+   - Status condition checks
+   - Victory condition verification
+
+### 2.3 Battle System
+
+#### Board State Management
+- Active Pokémon slots
+- 3 Bench slots per player
+- Hand management
+- Energy Zone tracking
+- Trainer card zones
+- Score tracking (3 points to win)
+- Turn indicator
+- Discard pile (for both cards and energy)
+
+#### Combat Mechanics
+- Attack damage calculation
+- Weakness multipliers (+20 damage)
+- Status conditions:
+  - Poison (10 damage/turn)
+  - Burn (20 damage/turn + coin flip)
+  - Sleep (attack prevention + coin flip)
+  - Paralysis (one-turn attack/retreat prevention)
+  - Confusion (attack coin flip)
+  - Special ability conditions
+
+## 3. Technical Requirements
+
+### 3.1 Core Classes
+```python
+class Card:
+    # Base class for all cards
+    pass
+
+class Pokemon(Card):
+    # Pokemon-specific implementation
+    pass
+
+class Trainer(Card):
+    # Trainer card implementation
+    pass
+
+class Item(Trainer):
+    # Trainer card implementation
+    pass
+
+class Supporter(Trainer):
+    # Trainer card implementation
+    pass
+
+class Tool(Trainer):
+    # Trainer card implementation
+    pass
+
+class GameBoard:
+    # Game state management
+    pass
+
+class Player:
+    # Player state and actions
+    pass
+
+class Game:
+    # Main game loop and rules
+    pass
+```
+
+### 3.2 Data Management
+- JSON card database integration
+- Game state serialization
+- Move history tracking
+- Status effect monitoring
+
+### 3.3 User Interface Requirements
+- Command-line interface initially
+- Clear display of:
+  - Board state
+  - Player hands
+  - Energy zones
+  - Status conditions
+  - Score
+  - Available actions
+
+## 4. Implementation Phases
+
+### Phase 1: Core Game Engine
+- Card system implementation
+- Basic game flow
+- Turn structure
+- Board state management
+
+### Phase 2: Game Mechanics
+- Attack system
+- Status conditions
+- Energy management
+- Evolution chains
+
+### Phase 3: Special Features
+- Ability systems
+- Tool card attachments
+- Special condition handling
+
+### Phase 4: User Interface
+- Command-line interface
+- Game state visualization
+- Player interaction handling
+
+## 5. Testing Requirements
+- Unit tests for core mechanics
+- Integration tests for game flow
+- Card interaction testing
+- Win condition verification
+- Status effect validation
+
+## 6. Future Enhancements
+- GUI implementation
+- Network play support
+- AI opponent
+- Deck builder interface
+- Game state save/load
+- Match history tracking
+
+## 7. Success Criteria
+- Accurate implementation of all game rules
+- Smooth game flow
+- Clear player feedback
+- Proper handling of all card interactions
+- Stable performance
+- Intuitive interface

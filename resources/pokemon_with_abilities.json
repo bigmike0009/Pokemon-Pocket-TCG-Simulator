@@ -1,0 +1,856 @@
+[
+  {
+    "name": "Butterfree",
+    "ability": {
+      "name": "Powder Heal",
+      "effect": "Once during your turn, you may heal 20 damage from each of your Pokémon."
+    }
+  },
+  {
+    "name": "Victreebel",
+    "ability": {
+      "name": "Fragrance Trap",
+      "effect": "If this Pokémon is in the Active Spot, once during your turn, you may switch in 1 of your opponent's Benched Basic Pokémon to the Active Spot."
+    }
+  },
+  {
+    "name": "Poliwrath",
+    "ability": {
+      "name": "Counterattack",
+      "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+    }
+  },
+  {
+    "name": "Cloyster",
+    "ability": {
+      "name": "Shell Armor",
+      "effect": "This Pokémon takes -10 damage from attacks."
+    }
+  },
+  {
+    "name": "Greninja",
+    "ability": {
+      "name": "Water Shuriken",
+      "effect": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon."
+    }
+  },
+  {
+    "name": "Magneton",
+    "ability": {
+      "name": "Volt Charge",
+      "effect": "Once during your turn, you may take a Lightning Energy from your Energy Zone and attach it to this Pokémon."
+    }
+  },
+  {
+    "name": "Gengar ex",
+    "ability": {
+      "name": "Shadowy Spellbind",
+      "effect": "As long as this Pokémon is in the Active Spot, your opponent can't use any Supporter cards from their hand."
+    }
+  },
+  {
+    "name": "Hypno",
+    "ability": {
+      "name": "Sleep Pendulum",
+      "effect": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Asleep."
+    }
+  },
+  {
+    "name": "Gardevoir",
+    "ability": {
+      "name": "Psy Shadow",
+      "effect": "Once during your turn, you may take 1 Psychic Energy from your Energy Zone and attach it to the  Pokémon in the Active Spot."
+    }
+  },
+  {
+    "name": "Weezing",
+    "ability": {
+      "name": "Gas Leak",
+      "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may make your opponent's Active Pokémon Poisoned."
+    }
+  },
+  {
+    "name": "Melmetal",
+    "ability": {
+      "name": "Hard Coat",
+      "effect": "This Pokémon takes -20 damage from attacks."
+    }
+  },
+  {
+    "name": "Pidgeot",
+    "ability": {
+      "name": "Drive Off",
+      "effect": "Once during your turn, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+    }
+  },
+  {
+    "name": "Porygon",
+    "ability": {
+      "name": "Data Scan",
+      "effect": "Once during your turn, you may look at the top card of your deck."
+    }
+  },
+  {
+    "name": "Weezing",
+    "ability": {
+      "name": "Gas Leak",
+      "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may make your opponent's Active Pokémon Poisoned."
+    }
+  },
+  {
+    "name": "Pidgeot",
+    "ability": {
+      "name": "Drive Off",
+      "effect": "Once during your turn, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+    }
+  },
+  {
+    "name": "Porygon",
+    "ability": {
+      "name": "Data Scan",
+      "effect": "Once during your turn, you may look at the top card of your deck."
+    }
+  },
+  {
+    "name": "Gengar ex",
+    "ability": {
+      "name": "Shadowy Spellbind",
+      "effect": "As long as this Pokémon is in the Active Spot, your opponent can't use any Supporter cards from their hand."
+    }
+  },
+  {
+    "name": "Gengar ex",
+    "ability": {
+      "name": "Shadowy Spellbind",
+      "effect": "As long as this Pokémon is in the Active Spot, your opponent can't use any Supporter cards from their hand."
+    }
+  },
+  {
+    "name": "Serperior",
+    "ability": {
+      "name": "Jungle Totem",
+      "effect": "Each Grass Energy attached to your Grass Pokémon provides 2 Grass Energy. This effect doesn't stack."
+    }
+  },
+  {
+    "name": "Vaporeon",
+    "ability": {
+      "name": "Wash Out",
+      "effect": "As often as you like during your turn, you may move a Water Energy from 1 of your Benched  Pokémon to your Active Water Pokémon."
+    }
+  },
+  {
+    "name": "Aerodactyl ex",
+    "ability": {
+      "name": "Primeval Law",
+      "effect": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon."
+    }
+  },
+  {
+    "name": "Druddigon",
+    "ability": {
+      "name": "Rough Skin",
+      "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+    }
+  },
+  {
+    "name": "Serperior",
+    "ability": {
+      "name": "Jungle Totem",
+      "effect": "Each Grass Energy attached to your Grass Pokémon provides 2 Grass Energy. This effect doesn't stack."
+    }
+  },
+  {
+    "name": "Vaporeon",
+    "ability": {
+      "name": "Wash Out",
+      "effect": "As often as you like during your turn, you may move a Water Energy from 1 of your Benched Water Pokémon to your Active  Pokémon."
+    }
+  },
+  {
+    "name": "Aerodactyl ex",
+    "ability": {
+      "name": "Primeval Law",
+      "effect": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon."
+    }
+  },
+  {
+    "name": "Aerodactyl ex",
+    "ability": {
+      "name": "Primeval Law",
+      "effect": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon."
+    }
+  },
+  {
+    "name": "Shaymin",
+    "ability": {
+      "name": "Fragrant Flower Garden",
+      "effect": "Once during your turn, you may heal 10 damage from each of your Pokémon."
+    }
+  },
+  {
+    "name": "Piloswine",
+    "ability": {
+      "name": "Thick Fat",
+      "effect": "This Pokémon takes −20 damage from attacks from  or  Pokémon."
+    }
+  },
+  {
+    "name": "Mamoswine",
+    "ability": {
+      "name": "Thick Fat",
+      "effect": "This Pokémon takes −30 damage from attacks from  or  Pokémon."
+    }
+  },
+  {
+    "name": "Regice",
+    "ability": {
+      "name": "Crystal Body",
+      "effect": "Prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon."
+    }
+  },
+  {
+    "name": "Dusknoir",
+    "ability": {
+      "name": "Shadow Void",
+      "effect": "As often as you like during your turn, you may choose 1 of your Pokémon that has damage on it, and move all of its damage to this Pokémon."
+    }
+  },
+  {
+    "name": "Giratina",
+    "ability": {
+      "name": "Levitate",
+      "effect": "If this Pokémon has any Energy attached, it has no Retreat Cost."
+    }
+  },
+  {
+    "name": "Regirock",
+    "ability": {
+      "name": "Exoskeleton",
+      "effect": "This Pokémon takes −20 damage from attacks."
+    }
+  },
+  {
+    "name": "Lucario",
+    "ability": {
+      "name": "Fighting Coach",
+      "effect": "Attacks used by your Fighting Pokémon do +20 damage to your opponent's Active Pokémon."
+    }
+  },
+  {
+    "name": "Darkrai ex",
+    "ability": {
+      "name": "Nightmare Aura",
+      "effect": "Whenever you attach a Dark Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon."
+    }
+  },
+  {
+    "name": "Bastiodon",
+    "ability": {
+      "name": "Guarded Grill",
+      "effect": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, this Pokémon takes −100 damage from that attack."
+    }
+  },
+  {
+    "name": "Garchomp",
+    "ability": {
+      "name": "Reckless Shearing",
+      "effect": "You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw a card."
+    }
+  },
+  {
+    "name": "Shaymin",
+    "ability": {
+      "name": "Fragrant Flower Garden",
+      "effect": "Once during your turn, you may heal 10 damage from each of your Pokémon."
+    }
+  },
+  {
+    "name": "Mamoswine",
+    "ability": {
+      "name": "Thick Fat",
+      "effect": "This Pokémon takes −30 damage from attacks from fire or water Pokémon."
+    }
+  },
+  {
+    "name": "Giratina",
+    "ability": {
+      "name": "Levitate",
+      "effect": "If this Pokémon has any Energy attached, it has no Retreat Cost."
+    }
+  },
+  {
+    "name": "Lucario",
+    "ability": {
+      "name": "Fighting Coach",
+      "effect": "Attacks used by your Fighting Pokémon do +20 damage to your opponent's Active Pokémon."
+    }
+  },
+  {
+    "name": "Garchomp",
+    "ability": {
+      "name": "Reckless Shearing",
+      "effect": "You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw a card."
+    }
+  },
+  {
+    "name": "Darkrai ex",
+    "ability": {
+      "name": "Nightmare Aura",
+      "effect": "Whenever you attach a Dark Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon."
+    }
+  },
+  {
+    "name": "Darkrai ex",
+    "ability": {
+      "name": "Nightmare Aura",
+      "effect": "Whenever you attach a Dark Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon."
+    }
+  },
+  {
+    "name": "Carnivine",
+    "ability": {
+      "name": "Power Link",
+      "effect": "If you have Arceus or Arceus ex in play, attacks used by this Pokémon do +30 damage to your opponent's Active Pokémon."
+    }
+  },
+  {
+    "name": "Leafeon ex",
+    "ability": {
+      "name": "Forest Breath",
+      "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may take a  Energy from your Energy Zone and attach it to 1 of your  Pokémon."
+    }
+  },
+  {
+    "name": "Heatran",
+    "ability": {
+      "name": "Speed Link",
+      "effect": "If you have Arceus or Arceus ex in play, this Pokémon has no Retreat Cost."
+    }
+  },
+  {
+    "name": "Abomasnow",
+    "ability": {
+      "name": "Vigor Link",
+      "effect": "If you have Arceus or Arceus ex in play, attacks used by this Pokémon cost 1 less  Energy."
+    }
+  },
+  {
+    "name": "Glaceon ex",
+    "ability": {
+      "name": "Snowy Terrain",
+      "effect": "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to your opponent's Active Pokémon."
+    }
+  },
+  {
+    "name": "Raichu",
+    "ability": {
+      "name": "Resilience Link",
+      "effect": "If you have Arceus or Arceus ex in play, this Pokémon takes −30 damage from attacks."
+    }
+  },
+  {
+    "name": "Unown",
+    "ability": {
+      "name": "CHECK",
+      "effect": "Once during your turn, you may choose either player. Look at the top card of that player's deck."
+    }
+  },
+  {
+    "name": "Rotom",
+    "ability": {
+      "name": "Speed Link",
+      "effect": "If you have Arceus or Arceus ex in play, this Pokémon has no Retreat Cost."
+    }
+  },
+  {
+    "name": "Tyranitar",
+    "ability": {
+      "name": "Power Link",
+      "effect": "If you have Arceus or Arceus ex in play, attacks used by this Pokémon do +30 damage to your opponent's Active Pokémon."
+    }
+  },
+  {
+    "name": "Crobat",
+    "ability": {
+      "name": "Cunning Link",
+      "effect": "Once during your turn, if you have Arceus or Arceus ex in play, you may do 30 damage to your opponent's Active Pokémon."
+    }
+  },
+  {
+    "name": "Magnezone",
+    "ability": {
+      "name": "Resilience Link",
+      "effect": "If you have Arceus or Arceus ex in play, this Pokémon takes −30 damage from attacks."
+    }
+  },
+  {
+    "name": "Shaymin",
+    "ability": {
+      "name": "Sky Support",
+      "effect": "As long as this Pokémon is on your Bench, your Active Basic Pokemon's Retreat Cost is 1 less."
+    }
+  },
+  {
+    "name": "Arceus ex",
+    "ability": {
+      "name": "Fabled Luster",
+      "effect": "This Pokémon can't be affected by any Special Conditions."
+    }
+  },
+  {
+    "name": "Unown",
+    "ability": {
+      "name": "CHECK",
+      "effect": "Once during your turn, you may choose either player. Look at the top card of that player's deck."
+    }
+  },
+  {
+    "name": "Shaymin",
+    "ability": {
+      "name": "Sky Support",
+      "effect": "As long as this Pokémon is on your Bench, your Active Basic Pokemon's Retreat Cost is 1 less."
+    }
+  },
+  {
+    "name": "Leafeon ex",
+    "ability": {
+      "name": "Forest Breath",
+      "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may take a  Energy from your Energy Zone and attach it to 1 of your  Pokémon."
+    }
+  },
+  {
+    "name": "Glaceon ex",
+    "ability": {
+      "name": "Snowy Terrain",
+      "effect": "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to your opponent's Active Pokémon."
+    }
+  },
+  {
+    "name": "Arceus ex",
+    "ability": {
+      "name": "Fabled Luster",
+      "effect": "This Pokémon can't be affected by any Special Conditions."
+    }
+  },
+  {
+    "name": "Leafeon ex",
+    "ability": {
+      "name": "Forest Breath",
+      "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may take a  Energy from your Energy Zone and attach it to 1 of your  Pokémon."
+    }
+  },
+  {
+    "name": "Glaceon ex",
+    "ability": {
+      "name": "Snowy Terrain",
+      "effect": "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to your opponent's Active Pokémon."
+    }
+  },
+  {
+    "name": "Arceus ex",
+    "ability": {
+      "name": "Fabled Luster",
+      "effect": "This Pokémon can't be affected by any Special Conditions."
+    }
+  },
+  {
+    "name": "Arceus ex",
+    "ability": {
+      "name": "Fabled Luster",
+      "effect": "This Pokémon can't be affected by any Special Conditions."
+    }
+  },
+  {
+    "name": "Tatsugiri",
+    "ability": {
+      "name": "Retreat Directive",
+      "effect": "Your Active Dondozo has no Retreat Cost."
+    }
+  },
+  {
+    "name": "Pawmot",
+    "ability": {
+      "name": "Counterattack",
+      "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+    }
+  },
+  {
+    "name": "Giratina ex",
+    "ability": {
+      "name": "Broken-Space Bellow",
+      "effect": "Once during your turn, you may take a  Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+    }
+  },
+  {
+    "name": "Grafaiai",
+    "ability": {
+      "name": "Poison Coating",
+      "effect": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+    }
+  },
+  {
+    "name": "Wigglytuff",
+    "ability": {
+      "name": "Comforting Song",
+      "effect": "Once during your turn, you may heal 20 damage from your Active Pokémon."
+    }
+  },
+  {
+    "name": "Tatsugiri",
+    "ability": {
+      "name": "Retreat Directive",
+      "effect": "Your Active Dondozo has no Retreat Cost."
+    }
+  },
+  {
+    "name": "Grafaiai",
+    "ability": {
+      "name": "Poison Coating",
+      "effect": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+    }
+  },
+  {
+    "name": "Wigglytuff",
+    "ability": {
+      "name": "Comforting Song",
+      "effect": "Once during your turn, you may heal 20 damage from your Active Pokémon."
+    }
+  },
+  {
+    "name": "Giratina ex",
+    "ability": {
+      "name": "Broken-Space Bellow",
+      "effect": "Once during your turn, you may take a  Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+    }
+  },
+  {
+    "name": "Giratina ex",
+    "ability": {
+      "name": "Broken-Space Bellow",
+      "effect": "Once during your turn, you may take a  Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+    }
+  },
+  {
+    "name": "Wimpod",
+    "ability": {
+      "name": "Wimp Out",
+      "effect": "During your first turn, this Pokémon has no Retreat Cost."
+    }
+  },
+  {
+    "name": "Primarina",
+    "ability": {
+      "name": "Melodious Healing",
+      "effect": "Once during your turn, you may heal 30 damage from each of your  Pokémon."
+    }
+  },
+  {
+    "name": "Pyukumuku",
+    "ability": {
+      "name": "Innards Out",
+      "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 50 damage to the Attacking Pokémon."
+    }
+  },
+  {
+    "name": "Oricorio",
+    "ability": {
+      "name": "Safeguard",
+      "effect": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon ex."
+    }
+  },
+  {
+    "name": "Comfey",
+    "ability": {
+      "name": "Flower Shield",
+      "effect": "Each of your Pokémon that has any  Energy attached recovers from all Special Conditions and can't be affected by any Special Conditions."
+    }
+  },
+  {
+    "name": "Lunala ex",
+    "ability": {
+      "name": "Psychic Connect",
+      "effect": "Once during your turn, you may move all  Energy from 1 of your Benched  Pokémon to your Active Pokémon."
+    }
+  },
+  {
+    "name": "Conkeldurr",
+    "ability": {
+      "name": "Guts",
+      "effect": "If this Pokémon would be Knocked Out by damage from an attack, flip a coin. If heads, this Pokémon is not Knocked Out, and its remaining HP becomes 10."
+    }
+  },
+  {
+    "name": "Passimian ex",
+    "ability": {
+      "name": "Offload Pass",
+      "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move all  Energy from this Pokémon to 1 of your Benched Pokémon."
+    }
+  },
+  {
+    "name": "Alolan Persian",
+    "ability": {
+      "name": "Fur Coat",
+      "effect": "This Pokémon takes −20 damage from attacks."
+    }
+  },
+  {
+    "name": "Solgaleo ex",
+    "ability": {
+      "name": "Rising Road",
+      "effect": "Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon."
+    }
+  },
+  {
+    "name": "Komala",
+    "ability": {
+      "name": "Comatose",
+      "effect": "As long as this Pokémon is in the Active Spot, whenever you attach an Energy from your Energy Zone to it, it is now Asleep."
+    }
+  },
+  {
+    "name": "Pyukumuku",
+    "ability": {
+      "name": "Innards Out",
+      "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 50 damage to the Attacking Pokémon."
+    }
+  },
+  {
+    "name": "Oricorio",
+    "ability": {
+      "name": "Safeguard",
+      "effect": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon ex."
+    }
+  },
+  {
+    "name": "Comfey",
+    "ability": {
+      "name": "Flower Shield",
+      "effect": "Each of your Pokémon that has any  Energy attached recovers from all Special Conditions and can't be affected by any Special Conditions."
+    }
+  },
+  {
+    "name": "Komala",
+    "ability": {
+      "name": "Comatose",
+      "effect": "As long as this Pokémon is in the Active Spot, whenever you attach an Energy from your Energy Zone to it, it is now Asleep."
+    }
+  },
+  {
+    "name": "Lunala ex",
+    "ability": {
+      "name": "Psychic Connect",
+      "effect": "Once during your turn, you may move all  Energy from 1 of your Benched  Pokémon to your Active Pokémon."
+    }
+  },
+  {
+    "name": "Passimian ex",
+    "ability": {
+      "name": "Offload Pass",
+      "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move all  Energy from this Pokémon to 1 of your Benched Pokémon."
+    }
+  },
+  {
+    "name": "Solgaleo ex",
+    "ability": {
+      "name": "Rising Road",
+      "effect": "Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon."
+    }
+  },
+  {
+    "name": "Lunala ex",
+    "ability": {
+      "name": "Psychic Connect",
+      "effect": "Once during your turn, you may move all  Energy from 1 of your Benched  Pokémon to your Active Pokémon."
+    }
+  },
+  {
+    "name": "Passimian ex",
+    "ability": {
+      "name": "Offload Pass",
+      "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move all  Energy from this Pokémon to 1 of your Benched Pokémon."
+    }
+  },
+  {
+    "name": "Solgaleo ex",
+    "ability": {
+      "name": "Rising Road",
+      "effect": "Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon."
+    }
+  },
+  {
+    "name": "Wigglytuff",
+    "ability": {
+      "name": "Comforting Song",
+      "effect": "Once during your turn, you may heal 20 damage from your Active Pokémon."
+    }
+  },
+  {
+    "name": "Gengar ex",
+    "ability": {
+      "name": "Shadowy Spellbind",
+      "effect": "As long as this Pokémon is in the Active Spot, your opponent can't use any Supporter cards from their hand."
+    }
+  },
+  {
+    "name": "Lunala ex",
+    "ability": {
+      "name": "Psychic Connect",
+      "effect": "Once during your turn, you may move all  Energy from 1 of your Benched  Pokémon to your Active Pokémon."
+    }
+  },
+  {
+    "name": "Solgaleo ex",
+    "ability": {
+      "name": "Rising Road",
+      "effect": "Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon."
+    }
+  },
+  {
+    "name": "Luxray",
+    "ability": {
+      "name": "Intimidating Fang",
+      "effect": "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon do −20 damage."
+    }
+  },
+  {
+    "name": "Zeraora",
+    "ability": {
+      "name": "Thunderclap Flash",
+      "effect": "At the end of your first turn, take a  Energy from your Energy Zone and attach it to this Pokémon."
+    }
+  },
+  {
+    "name": "Shiinotic",
+    "ability": {
+      "name": "Illuminate",
+      "effect": "Once during your turn, you may put a random Pokémon from your deck into your hand."
+    }
+  },
+  {
+    "name": "Claydol",
+    "ability": {
+      "name": "Heal Block",
+      "effect": "Pokémon (both yours and your opponent's) can't be healed."
+    }
+  },
+  {
+    "name": "Nihilego",
+    "ability": {
+      "name": "More Poison",
+      "effect": "Your opponent's Active Pokémon takes +10 damage from being Poisoned."
+    }
+  },
+  {
+    "name": "Ferrothorn",
+    "ability": {
+      "name": "Steel Spikes",
+      "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+    }
+  },
+  {
+    "name": "Stoutland",
+    "ability": {
+      "name": "Guard Dog Visage",
+      "effect": "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon cost 1  more."
+    }
+  },
+  {
+    "name": "Celesteela",
+    "ability": {
+      "name": "Ultra Thrusters",
+      "effect": "Once during your turn, you may switch your Active Ultra Beast with 1 of your Benched Ultra Beasts."
+    }
+  },
+  {
+    "name": "Celesteela",
+    "ability": {
+      "name": "Ultra Thrusters",
+      "effect": "Once during your turn, you may switch your Active Ultra Beast with 1 of your Benched Ultra Beasts."
+    }
+  },
+  {
+    "name": "Greninja",
+    "ability": {
+      "name": "Water Shuriken",
+      "effect": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon."
+    }
+  },
+  {
+    "name": "Pidgeot",
+    "ability": {
+      "name": "Drive Off",
+      "effect": "Once during your turn, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+    }
+  },
+  {
+    "name": "Aerodactyl ex",
+    "ability": {
+      "name": "Primeval Law",
+      "effect": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon."
+    }
+  },
+  {
+    "name": "Nihilego",
+    "ability": {
+      "name": "More Poison",
+      "effect": "Your opponent's Active Pokémon takes +10 damage from being Poisoned."
+    }
+  },
+  {
+    "name": "Butterfree",
+    "ability": {
+      "name": "Powder Heal",
+      "effect": "Once during your turn, you may heal 20 damage from each of your Pokémon."
+    }
+  },
+  {
+    "name": "Greninja",
+    "ability": {
+      "name": "Water Shuriken",
+      "effect": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon."
+    }
+  },
+  {
+    "name": "Cresselia ex",
+    "ability": {
+      "name": "Lunar Plumage",
+      "effect": "Whenever you attach a  Energy from your Energy Zone to this Pokémon, heal 20 damage from this Pokémon."
+    }
+  },
+  {
+    "name": "Darkrai ex",
+    "ability": {
+      "name": "Nightmare Aura",
+      "effect": "Whenever you attach a  Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon."
+    }
+  },
+  {
+    "name": "Raichu",
+    "ability": {
+      "name": "Resilience Link",
+      "effect": "If you have Arceus or Arceus ex in play, this Pokémon takes −30 damage from attacks."
+    }
+  },
+  {
+    "name": "Staraptor",
+    "ability": {
+      "name": "Defensive Whirlwind",
+      "effect": "This Pokémon takes −30 damage from attacks from  Pokémon."
+    }
+  },
+  {
+    "name": "Pawmot",
+    "ability": {
+      "name": "Counterattack",
+      "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+    }
+  },
+  {
+    "name": "Zeraora",
+    "ability": {
+      "name": "Thunderclap Flash",
+      "effect": "At the end of your first turn, take a  Energy from your Energy Zone and attach it to this Pokémon."
+    }
+  }
+]

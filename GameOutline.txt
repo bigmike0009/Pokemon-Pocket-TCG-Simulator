@@ -1,0 +1,145 @@
+🎴 Card Types:
+    Pokémon Cards
+        -Feature HP, attacks, and sometimes abilities. 
+        -Sometimes attacks also have a special condition or ability involved
+        -Each pokemon can be either regular or an EX
+        -Each pokemon can be a basic, a stage 1, or stage 2 which decides their stage of evolution
+        -Each pokemon has a retreat cost
+        -Each pokemon also has an element and a elemental weakness(+20 damage)
+        -Each Pokémon typically has one attack; only Pokémon ex may have two.
+
+    Trainer Cards: 
+        Support Cards:
+            -Can be played once per turn and often have powerful effects.
+        
+        Item Cards:
+            -Multiple can be played in a turn. Have a wide range of effects
+        
+        Pokemon Tools:
+            -Attachment: Attach a Tool card to either an Active or Benched Pokémon.
+            -Limit: Only one Tool card per Pokémon.
+            -Permanence: Once attached, Tools cannot be removed or swapped. They are discarded when the Pokémon is Knocked Out.
+            -Usage per Turn: You can play multiple Tool cards in a turn, provided each is attached to a different Pokémon.
+                
+
+    
+🔁 Game Flow
+    Setup:
+
+        -Each player uses a 20-card deck with no more than two copies of any card.
+
+        -Draw 5 cards to form your starting hand; the game ensures at least one Basic Pokémon is present, eliminating mulligans.
+
+        -Place one Active Pokémon and up to three on the Bench.
+
+        -Decide who goes first with a coin flip.
+
+
+    Turn Structure:
+
+        Draw Phase: 
+            -Draw one card (except on the first turn for the starting player).
+            -One energy is added to your energy zone. If the player's deck has more than one type of energy, one is chosen at random. Only one energy is available in the energy zone at a time, but players can see what the next energy will be in their deck.
+
+        Main Phase:
+        These events are optional and can be done in any order
+        Once complete you can proceed to attack phase or end turn without attacking
+
+            -Play Basic Pokémon to the Bench (maximum of three).
+
+            -Evolve Pokémon (once per Pokémon per turn). It can not be done the first turn a card is played
+
+            -Attach one Energy from the Energy Zone to a Pokémon.
+
+            -Play one Supporter card.
+
+            -Play as many item cards as you want
+
+            -Use Abilities (once per Pokémon per turn).
+
+            -Retreat the Active Pokémon by paying its Retreat Cost.
+
+        Attack Phase:
+
+            -Attack with the Active Pokémon if it has sufficient Energy.
+
+            -Apply damage and effects; if the opponent's Pokémon is Knocked Out, earn points accordingly.
+
+            -Attacks will end the turn automatically
+
+        Pokemon Check(after ending turn):
+            There is a phase for status effects at the end of each Player's turn where all pokemon will be checked by the game. 
+            If you have a status condition, the game will make you take damage, do a coin toss, or recover naturally.
+
+    Winning the Game:
+
+        -Earn points by Knocking Out opponent's Pokémon:
+
+        -Regular Pokémon: 1 point.
+
+        -Pokémon ex: 2 points.
+
+        -The first player to reach 3 points wins.
+
+🌀 Status Conditions
+Status Conditions are temporary effects that impact Pokémon performance. 
+They can be cured by evolving a pokemon, moving it to your bench, and by certain abilities and trainer cards
+
+    List of Status Conditions:
+        -Poisoned: The Pokémon takes 10 damage at the end of each turn. This condition will last until cured
+
+        -Burned: The Pokémon takes 20 damage at the end of each turn, then flips a coin to see if it is recovered
+
+        -Asleep: The Pokémon cannot attack or retreat. It has a chance to wake up between turns. Coin flip.
+
+        -Paralyzed: The Pokémon cannot attack or retreat during its next turn. This effect is automatically dispelled after one turn
+
+        -Confused: When attempting to attack, do a coin flip the attack may fail. This condition will last until cured
+
+        -Ability conditions: Sometimes abilities from pokemon or their attacks can have special abilities for 1 or more turns.
+            Examples: Resistance to attacks, next attack will do more damage, draw cards from deck
+
+Deck Rules:
+    -20-card deck 
+    -Limit to two copies per card encourages diversity
+    -Different cards with the same name are still limited to duplicates. Unless one is an EX
+    -Each Deck can have one or more type of energy for each pokemon element
+
+🎮 In-Game Battle Board Layout
+In Pokémon TCG Pocket, the battle interface is optimized for mobile devices, offering a streamlined and intuitive experience. Here's how the battlefield is structured:
+
+    🔹 Player's Side
+        Active Pokémon Slot: Central position displaying your current battling Pokémon.
+
+        Bench Slots: Up to three slots below the Active Pokémon for your Benched Pokémon.
+
+        Hand Display: Your current hand is shown at the bottom, allowing easy selection of cards to play.
+
+        Energy Zone: A designated area indicating the available Energy for the turn, replacing traditional Energy cards.
+
+        Supporter and Item Zones: Areas where played Trainer cards (Supporters and Items) are displayed when activated.
+
+    🔹 Opponent's Side
+        Active Pokémon Slot: At the top center, showing the opponent's battling Pokémon.
+
+        Bench Slots: Up to three slots above the Active Pokémon for the opponent's Benched Pokémon.
+
+        Opponent's Hand: Not visible, maintaining strategic uncertainty.
+
+    🔹 Additional Elements
+        Score Tracker: Displays the current points for each player, with the goal being to reach 3 points to win.
+
+        Turn Indicator: Shows whose turn it is, ensuring clarity during gameplay.
+
+        Timer: A countdown to ensure timely moves, keeping matches brisk and engaging.
+
+🧠 Strategic Considerations
+
+
+    -Energy Management: Plan attacks around the Energy Zone's output; consider the types of Energy your deck requires.
+
+    -Bench Management: With only three Bench slots, choose supporting Pokémon wisely.
+
+    -First Turn Advantage: Going second allows for Energy attachment and potentially attacking, offering a strategic edge.
+
+    -Status Effects: Conditions like Poison, Sleep, Paralysis, Burn, and Confusion function similarly to the traditional TCG, affecting gameplay tactics

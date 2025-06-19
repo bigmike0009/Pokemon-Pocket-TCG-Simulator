@@ -1,0 +1,2347 @@
+[
+  {
+    "id": "219",
+    "name": "Erika",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_219_EN.webp",
+    "attacks": [],
+    "ability": "Heal 50 damage from 1 of your [G] Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Genetic Apex  (A1)",
+    "pack": "Charizard pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #219",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Genetic Apex #266",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "kirisAki",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "220",
+    "name": "Misty",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_220_EN.webp",
+    "attacks": [],
+    "ability": "Choose 1 of your [W] Pokémon, and flip a coin until you get tails. For each heads, take a [W] Energy from your Energy Zone and attach it to that Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Genetic Apex  (A1)",
+    "pack": "Pikachu pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #220",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Genetic Apex #267",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Sanosuke Sakuma",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "221",
+    "name": "Blaine",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_221_EN.webp",
+    "attacks": [],
+    "ability": "During this turn, attacks used by your Ninetales, Rapidash, or Magmar do +30 damage to your opponent's Active Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Genetic Apex  (A1)",
+    "pack": "Charizard pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #221",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Genetic Apex #268",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "GOSSAN",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "222",
+    "name": "Koga",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_222_EN.webp",
+    "attacks": [],
+    "ability": "Put your Muk or Weezing in the Active Spot into your hand.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Genetic Apex  (A1)",
+    "pack": "Mewtwo pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #222",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Genetic Apex #269",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Souichirou Gunjima",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "223",
+    "name": "Giovanni",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_223_EN.webp",
+    "attacks": [],
+    "ability": "During this turn, attacks used by your Pokémon do +10 damage to your opponent's Active Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Genetic Apex  (A1)",
+    "pack": "Mewtwo pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #223",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Genetic Apex #270",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Hideki Ishikawa",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "224",
+    "name": "Brock",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_224_EN.webp",
+    "attacks": [],
+    "ability": "Take a [F] Energy from your Energy Zone and attach it to Golem or Onix.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Genetic Apex  (A1)",
+    "pack": "Pikachu pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #224",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Genetic Apex #271",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Taira Akitsu",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "225",
+    "name": "Sabrina",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_225_EN.webp",
+    "attacks": [],
+    "ability": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Genetic Apex  (A1)",
+    "pack": "Charizard pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #225",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Genetic Apex #272",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Yuu Nishida",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "226",
+    "name": "Lt. Surge",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_226_EN.webp",
+    "attacks": [],
+    "ability": "Move all [L] Energy from your Benched Pokémon to your Raichu, Electrode, or Electabuzz in the Active Spot.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Genetic Apex  (A1)",
+    "pack": "Pikachu pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #226",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Genetic Apex #273",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "nagimiso",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "266",
+    "name": "Erika",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_266_EN.webp",
+    "attacks": [],
+    "ability": "Heal 50 damage from 1 of your [G] Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Genetic Apex  (A1)",
+    "pack": "Charizard pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #219",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Genetic Apex #266",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "saino misaki",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "267",
+    "name": "Misty",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_267_EN.webp",
+    "attacks": [],
+    "ability": "Choose 1 of your [W] Pokémon, and flip a coin until you get tails. For each heads, take a [W] Energy from your Energy Zone and attach it to that Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Genetic Apex  (A1)",
+    "pack": "Pikachu pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #220",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Genetic Apex #267",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Sanosuke Sakuma",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "268",
+    "name": "Blaine",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_268_EN.webp",
+    "attacks": [],
+    "ability": "During this turn, attacks used by your Ninetales, Rapidash, or Magmar do +30 damage to your opponent's Active Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Genetic Apex  (A1)",
+    "pack": "Charizard pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #221",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Genetic Apex #268",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "GOSSAN",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "269",
+    "name": "Koga",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_269_EN.webp",
+    "attacks": [],
+    "ability": "Put your Muk or Weezing in the Active Spot into your hand.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Genetic Apex  (A1)",
+    "pack": "Mewtwo pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #222",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Genetic Apex #269",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Souichirou Gunjima",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "270",
+    "name": "Giovanni",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_270_EN.webp",
+    "attacks": [],
+    "ability": "During this turn, attacks used by your Pokémon do +10 damage to your opponent's Active Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Genetic Apex  (A1)",
+    "pack": "Mewtwo pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #223",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Genetic Apex #270",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Hideki Ishikawa",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "271",
+    "name": "Brock",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_271_EN.webp",
+    "attacks": [],
+    "ability": "Take a [F] Energy from your Energy Zone and attach it to Golem or Onix.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Genetic Apex  (A1)",
+    "pack": "Pikachu pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #224",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Genetic Apex #271",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Ryuta Fuse",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "272",
+    "name": "Sabrina",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_272_EN.webp",
+    "attacks": [],
+    "ability": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Genetic Apex  (A1)",
+    "pack": "Charizard pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #225",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Genetic Apex #272",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "GIDORA",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "273",
+    "name": "Lt. Surge",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_273_EN.webp",
+    "attacks": [],
+    "ability": "Move all [L] Energy from your Benched Pokémon to your Raichu, Electrode, or Electabuzz in the Active Spot.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Genetic Apex  (A1)",
+    "pack": "Pikachu pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #226",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Genetic Apex #273",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "nagimiso",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "66",
+    "name": "Budding Expeditioner",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_066_EN.webp",
+    "attacks": [],
+    "ability": "Put your Mew ex in the Active Spot into your hand.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Mythical Island  (A1a)",
+    "pack": "Mew pack",
+    "alternate_versions": [
+      {
+        "version": "Mythical Island #66",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Mythical Island #80",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Yuu Nishida",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "67",
+    "name": "Blue",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_067_EN.webp",
+    "attacks": [],
+    "ability": "During your opponent's next turn, all of your Pokémon take −10 damage from attacks from your opponent's Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Mythical Island  (A1a)",
+    "pack": "Mew pack",
+    "alternate_versions": [
+      {
+        "version": "Mythical Island #67",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Mythical Island #81",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Ryuta Fuse",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "68",
+    "name": "Leaf",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_068_EN.webp",
+    "attacks": [],
+    "ability": "During this turn, the Retreat Cost of your Active Pokémon is 2 less.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Mythical Island  (A1a)",
+    "pack": "Mew pack",
+    "alternate_versions": [
+      {
+        "version": "Mythical Island #68",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Mythical Island #82",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "En Morikura",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "80",
+    "name": "Budding Expeditioner",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_080_EN.webp",
+    "attacks": [],
+    "ability": "Put your Mew ex in the Active Spot into your hand.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Mythical Island  (A1a)",
+    "pack": "Mew pack",
+    "alternate_versions": [
+      {
+        "version": "Mythical Island #66",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Mythical Island #80",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Yuu Nishida",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "81",
+    "name": "Blue",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_081_EN.webp",
+    "attacks": [],
+    "ability": "During your opponent's next turn, all of your Pokémon take −10 damage from attacks from your opponent's Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Mythical Island  (A1a)",
+    "pack": "Mew pack",
+    "alternate_versions": [
+      {
+        "version": "Mythical Island #67",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Mythical Island #81",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Ryuta Fuse",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "82",
+    "name": "Leaf",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_082_EN.webp",
+    "attacks": [],
+    "ability": "During this turn, the Retreat Cost of your Active Pokémon is 2 less.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Mythical Island  (A1a)",
+    "pack": "Mew pack",
+    "alternate_versions": [
+      {
+        "version": "Mythical Island #68",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Mythical Island #82",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "En Morikura",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "150",
+    "name": "Cyrus",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_150_EN.webp",
+    "attacks": [],
+    "ability": "Switch in 1 of your opponent's Benched Pokémon that has damage on it to the Active Spot.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #150",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #190",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "akagi",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "151",
+    "name": "Team Galactic Grunt",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_151_EN.webp",
+    "attacks": [],
+    "ability": "Put 1 random Glameow, Stunky, or Croagunk from your deck into your hand.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #151",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #191",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "GOSSAN",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "152",
+    "name": "Cynthia",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_152_EN.webp",
+    "attacks": [],
+    "ability": "During this turn, attacks used by your Garchomp or Togekiss do +50 damage to your opponent's Active Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #152",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #192",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Ryuta Fuse",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "153",
+    "name": "Volkner",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_153_EN.webp",
+    "attacks": [],
+    "ability": "Choose 1 of your Electivire or Luxray. Attach 2 [L] Energy from your discard pile to that Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #153",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #193",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "GIDORA",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "154",
+    "name": "Dawn",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_154_EN.webp",
+    "attacks": [],
+    "ability": "Move an Energy from 1 of your Benched Pokémon to your Active Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #154",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #194",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "saino misaki",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "155",
+    "name": "Mars",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_155_EN.webp",
+    "attacks": [],
+    "ability": "Your opponent shuffles their hand into their deck and draws a card for each of their remaining points needed to win.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #155",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #195",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Yuu Nishida",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "190",
+    "name": "Cyrus",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_190_EN.webp",
+    "attacks": [],
+    "ability": "Switch in 1 of your opponent's Benched Pokémon that has damage on it to the Active Spot.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #150",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #190",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "akagi",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "191",
+    "name": "Team Galactic Grunt",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_191_EN.webp",
+    "attacks": [],
+    "ability": "Put 1 random Glameow, Stunky, or Croagunk from your deck into your hand.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #151",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #191",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "GOSSAN",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "192",
+    "name": "Cynthia",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_192_EN.webp",
+    "attacks": [],
+    "ability": "During this turn, attacks used by your Garchomp or Togekiss do +50 damage to your opponent's Active Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #152",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #192",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Ryuta Fuse",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "193",
+    "name": "Volkner",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_193_EN.webp",
+    "attacks": [],
+    "ability": "Choose 1 of your Electivire or Luxray. Attach 2 [L] Energy from your discard pile to that Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #153",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #193",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "GIDORA",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "194",
+    "name": "Dawn",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_194_EN.webp",
+    "attacks": [],
+    "ability": "Move an Energy from 1 of your Benched Pokémon to your Active Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #154",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #194",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "saino misaki",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "195",
+    "name": "Mars",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_195_EN.webp",
+    "attacks": [],
+    "ability": "Your opponent shuffles their hand into their deck and draws a card for each of their remaining points needed to win.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #155",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #195",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Yuu Nishida",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "72",
+    "name": "Irida",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_072_EN.webp",
+    "attacks": [],
+    "ability": "Heal 40 damage from each of your Pokémon that has any [W] Energy attached.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Triumphant Light  (A2a)",
+    "pack": "Arceus pack",
+    "alternate_versions": [
+      {
+        "version": "Triumphant Light #72",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Triumphant Light #87",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Atsushi Furusawa",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "73",
+    "name": "Celestic Town Elder",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_073_EN.webp",
+    "attacks": [],
+    "ability": "Put 1 random Basic Pokémon from your discard pile into your hand.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Triumphant Light  (A2a)",
+    "pack": "Arceus pack",
+    "alternate_versions": [
+      {
+        "version": "Triumphant Light #73",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Triumphant Light #88",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Yuu Nishida",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "74",
+    "name": "Barry",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_074_EN.webp",
+    "attacks": [],
+    "ability": "During this turn, attacks used by your Snorlax, Heracross, and Staraptor cost 2 less [C] Energy.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Triumphant Light  (A2a)",
+    "pack": "Arceus pack",
+    "alternate_versions": [
+      {
+        "version": "Triumphant Light #74",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Triumphant Light #89",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Hideki Ishikawa",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "75",
+    "name": "Adaman",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_075_EN.webp",
+    "attacks": [],
+    "ability": "During your opponent's next turn, all of your [M] Pokémon take −20 damage from attacks from your opponent's Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Triumphant Light  (A2a)",
+    "pack": "Arceus pack",
+    "alternate_versions": [
+      {
+        "version": "Triumphant Light #75",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Triumphant Light #90",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "akagi",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "87",
+    "name": "Irida",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_087_EN.webp",
+    "attacks": [],
+    "ability": "Heal 40 damage from each of your Pokémon that has any [W] Energy attached.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Triumphant Light  (A2a)",
+    "pack": "Arceus pack",
+    "alternate_versions": [
+      {
+        "version": "Triumphant Light #72",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Triumphant Light #87",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Atsushi Furusawa",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "88",
+    "name": "Celestic Town Elder",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_088_EN.webp",
+    "attacks": [],
+    "ability": "Put 1 random Basic Pokémon from your discard pile into your hand.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Triumphant Light  (A2a)",
+    "pack": "Arceus pack",
+    "alternate_versions": [
+      {
+        "version": "Triumphant Light #73",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Triumphant Light #88",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Yuu Nishida",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "89",
+    "name": "Barry",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_089_EN.webp",
+    "attacks": [],
+    "ability": "During this turn, attacks used by your Snorlax, Heracross, and Staraptor cost 2 less [C] Energy.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Triumphant Light  (A2a)",
+    "pack": "Arceus pack",
+    "alternate_versions": [
+      {
+        "version": "Triumphant Light #74",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Triumphant Light #89",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Hideki Ishikawa",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "90",
+    "name": "Adaman",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_090_EN.webp",
+    "attacks": [],
+    "ability": "During your opponent's next turn, all of your [M] Pokémon take −20 damage from attacks from your opponent's Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Triumphant Light  (A2a)",
+    "pack": "Arceus pack",
+    "alternate_versions": [
+      {
+        "version": "Triumphant Light #75",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Triumphant Light #90",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "akagi",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "69",
+    "name": "Iono",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_069_EN.webp",
+    "attacks": [],
+    "ability": "Each player shuffles the cards in their hand into their deck, then draws that many cards.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Shining Revelry  (A2b)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Shining Revelry #69",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Shining Revelry #88",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "saino misaki",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "70",
+    "name": "Pokémon Center Lady",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_070_EN.webp",
+    "attacks": [],
+    "ability": "Heal 30 damage from 1 of your Pokémon, and it recovers from all Special Conditions.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Shining Revelry  (A2b)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Shining Revelry #70",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Shining Revelry #89",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Susumu Maeya",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "71",
+    "name": "Red",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_071_EN.webp",
+    "attacks": [],
+    "ability": "During this turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon ex.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Shining Revelry  (A2b)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Shining Revelry #71",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Shining Revelry #90",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Teeziro",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "72",
+    "name": "Team Rocket Grunt",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_072_EN.webp",
+    "attacks": [],
+    "ability": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Shining Revelry  (A2b)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Shining Revelry #72",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Shining Revelry #91",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "kantaro",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "88",
+    "name": "Iono",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_088_EN.webp",
+    "attacks": [],
+    "ability": "Each player shuffles the cards in their hand into their deck, then draws that many cards.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Shining Revelry  (A2b)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Shining Revelry #69",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Shining Revelry #88",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "saino misaki",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "89",
+    "name": "Pokémon Center Lady",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_089_EN.webp",
+    "attacks": [],
+    "ability": "Heal 30 damage from 1 of your Pokémon, and it recovers from all Special Conditions.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Shining Revelry  (A2b)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Shining Revelry #70",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Shining Revelry #89",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Susumu Maeya",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "90",
+    "name": "Red",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_090_EN.webp",
+    "attacks": [],
+    "ability": "During this turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon ex.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Shining Revelry  (A2b)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Shining Revelry #71",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Shining Revelry #90",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Teeziro",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "91",
+    "name": "Team Rocket Grunt",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_091_EN.webp",
+    "attacks": [],
+    "ability": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Shining Revelry  (A2b)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Shining Revelry #72",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Shining Revelry #91",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "kantaro",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "148",
+    "name": "Acerola",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_148_EN.webp",
+    "attacks": [],
+    "ability": "Choose 1 of your Palossand or Mimikyu that has damage on it, and move 40 of its damage to your opponent's Active Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #148",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Celestial Guardians #190",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Susumu Maeya",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "149",
+    "name": "Ilima",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_149_EN.webp",
+    "attacks": [],
+    "ability": "Put 1 of your [C] Pokémon that has damage on it into your hand.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #149",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Celestial Guardians #191",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Teeziro",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "150",
+    "name": "Kiawe",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_150_EN.webp",
+    "attacks": [],
+    "ability": "Choose 1 of your Alolan Marowak or Turtonator. Take 2 [R] Energy from your Energy Zone and attach it to that Pokémon. Your turn ends.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #150",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Celestial Guardians #192",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Hideki Ishikawa",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "151",
+    "name": "Guzma",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_151_EN.webp",
+    "attacks": [],
+    "ability": "Discard all Pokémon Tool cards attached to each of your opponent's Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #151",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Celestial Guardians #193",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Celestial Guardians #208",
+        "rarity": "☆☆☆"
+      }
+    ],
+    "artist": "GOSSAN",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "152",
+    "name": "Lana",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_152_EN.webp",
+    "attacks": [],
+    "ability": "You can use this card only if you have Araquanid in play.Switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #152",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Celestial Guardians #194",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Yuu Nishida",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "153",
+    "name": "Sophocles",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_153_EN.webp",
+    "attacks": [],
+    "ability": "During this turn, attacks used by your Alolan Golem, Vikavolt, or Togedemaru do +30 damage to your opponent's Active Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #153",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Celestial Guardians #195",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Akira Komayama",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "154",
+    "name": "Mallow",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_154_EN.webp",
+    "attacks": [],
+    "ability": "Heal all damage from 1 of your Shiinotic or Tsareena. If you do, discard all Energy from that Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #154",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Celestial Guardians #196",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "En Morikura",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "155",
+    "name": "Lillie",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_155_EN.webp",
+    "attacks": [],
+    "ability": "Heal 60 damage from 1 of your Stage 2 Pokemon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #155",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Celestial Guardians #197",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Celestial Guardians #209",
+        "rarity": "☆☆☆"
+      }
+    ],
+    "artist": "hechima",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "190",
+    "name": "Acerola",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_190_EN.webp",
+    "attacks": [],
+    "ability": "Choose 1 of your Palossand or Mimikyu that has damage on it, and move 40 of its damage to your opponent's Active Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #148",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Celestial Guardians #190",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Susumu Maeya",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "191",
+    "name": "Ilima",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_191_EN.webp",
+    "attacks": [],
+    "ability": "Put 1 of your [C] Pokémon that has damage on it into your hand.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #149",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Celestial Guardians #191",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Teeziro",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "192",
+    "name": "Kiawe",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_192_EN.webp",
+    "attacks": [],
+    "ability": "Choose 1 of your Alolan Marowak or Turtonator. Take 2 [R] Energy from your Energy Zone and attach it to that Pokémon. Your turn ends.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #150",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Celestial Guardians #192",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Hideki Ishikawa",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "193",
+    "name": "Guzma",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_193_EN.webp",
+    "attacks": [],
+    "ability": "Discard all Pokémon Tool cards attached to each of your opponent's Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #151",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Celestial Guardians #193",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Celestial Guardians #208",
+        "rarity": "☆☆☆"
+      }
+    ],
+    "artist": "GOSSAN",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "194",
+    "name": "Lana",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_194_EN.webp",
+    "attacks": [],
+    "ability": "You can use this card only if you have Araquanid in play.Switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #152",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Celestial Guardians #194",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Yuu Nishida",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "195",
+    "name": "Sophocles",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_195_EN.webp",
+    "attacks": [],
+    "ability": "During this turn, attacks used by your Alolan Golem, Vikavolt, or Togedemaru do +30 damage to your opponent's Active Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #153",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Celestial Guardians #195",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Akira Komayama",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "196",
+    "name": "Mallow",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_196_EN.webp",
+    "attacks": [],
+    "ability": "Heal all damage from 1 of your Shiinotic or Tsareena. If you do, discard all Energy from that Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #154",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Celestial Guardians #196",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "En Morikura",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "197",
+    "name": "Lillie",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_197_EN.webp",
+    "attacks": [],
+    "ability": "Heal 60 damage from 1 of your Stage 2 Pokemon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #155",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Celestial Guardians #197",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Celestial Guardians #209",
+        "rarity": "☆☆☆"
+      }
+    ],
+    "artist": "hechima",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "208",
+    "name": "Guzma",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_208_EN.webp",
+    "attacks": [],
+    "ability": "Discard all Pokémon Tool cards attached to each of your opponent's Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "3S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #151",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Celestial Guardians #193",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Celestial Guardians #208",
+        "rarity": "☆☆☆"
+      }
+    ],
+    "artist": "danciao",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "209",
+    "name": "Lillie",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_209_EN.webp",
+    "attacks": [],
+    "ability": "Heal 60 damage from 1 of your Stage 2 Pokemon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "3S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #155",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Celestial Guardians #197",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Celestial Guardians #209",
+        "rarity": "☆☆☆"
+      }
+    ],
+    "artist": "Atsushi Furusawa",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "67",
+    "name": "Gladion",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_067_EN.webp",
+    "attacks": [],
+    "ability": "Put 1 random Type: Null or Silvally from your deck into your hand.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Extradimensional Crisis  (A3a)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Extradimensional Crisis #67",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Extradimensional Crisis #81",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "hncl",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "68",
+    "name": "Looker",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_068_EN.webp",
+    "attacks": [],
+    "ability": "Your opponent reveals all of the Supporter cards in their deck.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Extradimensional Crisis  (A3a)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Extradimensional Crisis #68",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Extradimensional Crisis #82",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Hideki Ishikawa",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "69",
+    "name": "Lusamine",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_069_EN.webp",
+    "attacks": [],
+    "ability": "You can use this card only if your opponent has gotten at least 1 point.Choose 1 of your Ultra Beasts. Attach 2 random Energy from your discard pile to that Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Extradimensional Crisis  (A3a)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Extradimensional Crisis #69",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Extradimensional Crisis #83",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Taira Akitsu",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "81",
+    "name": "Gladion",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_081_EN.webp",
+    "attacks": [],
+    "ability": "Put 1 random Type: Null or Silvally from your deck into your hand.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Extradimensional Crisis  (A3a)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Extradimensional Crisis #67",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Extradimensional Crisis #81",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "hncl",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "82",
+    "name": "Looker",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_082_EN.webp",
+    "attacks": [],
+    "ability": "Your opponent reveals all of the Supporter cards in their deck.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Extradimensional Crisis  (A3a)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Extradimensional Crisis #68",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Extradimensional Crisis #82",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Hideki Ishikawa",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "83",
+    "name": "Lusamine",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_083_EN.webp",
+    "attacks": [],
+    "ability": "You can use this card only if your opponent has gotten at least 1 point.Choose 1 of your Ultra Beasts. Attach 2 random Energy from your discard pile to that Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2S",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Extradimensional Crisis  (A3a)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Extradimensional Crisis #69",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Extradimensional Crisis #83",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Taira Akitsu",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "7",
+    "name": "Professor's Research",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Supporter",
+    "evolution_type": "Supporter",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_007_EN.webp",
+    "attacks": [],
+    "ability": "Draw 2 cards.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Promo-A",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Unknown",
+        "rarity": "Unknown"
+      }
+    ],
+    "artist": "Naoki Saito",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  }
+]

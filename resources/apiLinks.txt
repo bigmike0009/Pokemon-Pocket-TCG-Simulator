@@ -1,0 +1,2 @@
+Top deck matchup stats - https://pocketdecks.top/data/matchup-data.json
+Full card list - https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/scripts/cards_data.json

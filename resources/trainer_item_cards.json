@@ -1,0 +1,631 @@
+[
+  {
+    "id": "216",
+    "name": "Helix Fossil",
+    "hp": "40",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_216_EN.webp",
+    "attacks": [],
+    "ability": "Play this card as if it were a 40-HP Basic [C] Pokémon.At any time during your turn, you may discard this card from play.This card can't retreat.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "1D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Genetic Apex  (A1)",
+    "pack": "Pikachu pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #216",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Toyste Beach",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "217",
+    "name": "Dome Fossil",
+    "hp": "40",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_217_EN.webp",
+    "attacks": [],
+    "ability": "Play this card as if it were a 40-HP Basic [C] Pokémon.At any time during your turn, you may discard this card from play.This card can't retreat.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "1D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Genetic Apex  (A1)",
+    "pack": "Charizard pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #217",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Toyste Beach",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "218",
+    "name": "Old Amber",
+    "hp": "40",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_218_EN.webp",
+    "attacks": [],
+    "ability": "Play this card as if it were a 40-HP Basic [C] Pokémon.At any time during your turn, you may discard this card from play.This card can't retreat.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "1D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Genetic Apex  (A1)",
+    "pack": "Mewtwo pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #218",
+        "rarity": "◊"
+      },
+      {
+        "version": "Mythical Island #63",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Toyste Beach",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "63",
+    "name": "Old Amber",
+    "hp": "40",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_063_EN.webp",
+    "attacks": [],
+    "ability": "Play this card as if it were a 40-HP Basic [C] Pokémon.At any time during your turn, you may discard this card from play.This card can't retreat.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "1D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Mythical Island  (A1a)",
+    "pack": "Mew pack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #218",
+        "rarity": "◊"
+      },
+      {
+        "version": "Mythical Island #63",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Toyste Beach",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "64",
+    "name": "Pokémon Flute",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_064_EN.webp",
+    "attacks": [],
+    "ability": "Put a Basic Pokémon from your opponent's discard pile onto their Bench.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Mythical Island  (A1a)",
+    "pack": "Mew pack",
+    "alternate_versions": [
+      {
+        "version": "Mythical Island #64",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Toyste Beach",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "65",
+    "name": "Mythical Slab",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_065_EN.webp",
+    "attacks": [],
+    "ability": "Look at the top card of your deck. If that card is a [P] Pokémon, put it into your hand. If it is not a [P] Pokémon, put it on the bottom of your deck.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Mythical Island  (A1a)",
+    "pack": "Mew pack",
+    "alternate_versions": [
+      {
+        "version": "Mythical Island #65",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "AYUMI ODASHIMA",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "144",
+    "name": "Skull Fossil",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_144_EN.webp",
+    "attacks": [],
+    "ability": "Play this card as if it were a 40-HP Basic [C] Pokémon.At any time during your turn, you may discard this card from play.This card can't retreat.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "1D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #144",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Toyste Beach",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "145",
+    "name": "Armor Fossil",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_145_EN.webp",
+    "attacks": [],
+    "ability": "Play this card as if it were a 40-HP Basic [C] Pokémon.At any time during your turn, you may discard this card from play.This card can't retreat.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "1D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #145",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Toyste Beach",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "146",
+    "name": "Pokémon Communication",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_146_EN.webp",
+    "attacks": [],
+    "ability": "Choose a Pokémon in your hand and switch it with a random Pokémon in your deck.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #146",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Ayaka Yoshida",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "111",
+    "name": "Poké Ball",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_111_EN.webp",
+    "attacks": [],
+    "ability": "Put 1 random Basic Pokemon from your deck into your hand.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "Crown Rare",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Shining Revelry  (A2b)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Shining Revelry #111",
+        "rarity": "♛"
+      }
+    ],
+    "artist": "Toyste Beach",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "142",
+    "name": "Big Malasada",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_142_EN.webp",
+    "attacks": [],
+    "ability": "Heal 10 damage and remove a random Special Condition from your Active Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #142",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "5ban Graphics",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "143",
+    "name": "Fishing Net",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_143_EN.webp",
+    "attacks": [],
+    "ability": "Put a random Basic [W] Pokémon from your discard pile into your hand.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #143",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Toyste Beach",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "144",
+    "name": "Rare Candy",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_144_EN.webp",
+    "attacks": [],
+    "ability": "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #144",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Toyste Beach",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "145",
+    "name": "Rotom Dex",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_145_EN.webp",
+    "attacks": [],
+    "ability": "Look at the top card of your deck. Then, you may shuffle your deck.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Celestial Guardians  (A3)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Celestial Guardians #145",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "5ban Graphics",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "63",
+    "name": "Beast Wall",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_063_EN.webp",
+    "attacks": [],
+    "ability": "You can use this card only if your opponent hasn't gotten any points.During your opponent's next turn, all of your Ultra Beasts take −20 damage from attacks from your opponent's Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Extradimensional Crisis  (A3a)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Extradimensional Crisis #63",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Toyste Beach",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "64",
+    "name": "Repel",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_064_EN.webp",
+    "attacks": [],
+    "ability": "Switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "2D",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Extradimensional Crisis  (A3a)",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Extradimensional Crisis #64",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Yoshinobu Saito",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "1",
+    "name": "Potion",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_001_EN.webp",
+    "attacks": [],
+    "ability": "Heal 20 damage from 1 of your Pokémon.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Promo-A",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Unknown",
+        "rarity": "Unknown"
+      }
+    ],
+    "artist": "5ban Graphics",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "2",
+    "name": "X Speed",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_002_EN.webp",
+    "attacks": [],
+    "ability": "During this turn, the Retreat Cost of your Active Pokémon is 1 less.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Promo-A",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Unknown",
+        "rarity": "Unknown"
+      }
+    ],
+    "artist": "Toyste Beach",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "3",
+    "name": "Hand Scope",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_003_EN.webp",
+    "attacks": [],
+    "ability": "Your opponent reveals their hand.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Promo-A",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Unknown",
+        "rarity": "Unknown"
+      }
+    ],
+    "artist": "Toyste Beach",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "4",
+    "name": "Pokédex",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_004_EN.webp",
+    "attacks": [],
+    "ability": "Look at the top 3 cards of your deck.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Promo-A",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Unknown",
+        "rarity": "Unknown"
+      }
+    ],
+    "artist": "Ryo Ueda",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "5",
+    "name": "Poké Ball",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_005_EN.webp",
+    "attacks": [],
+    "ability": "Put 1 random Basic Pokemon from your deck into your hand.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Promo-A",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Shining Revelry #111",
+        "rarity": "♛"
+      }
+    ],
+    "artist": "Ryo Ueda",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "6",
+    "name": "Red Card",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_006_EN.webp",
+    "attacks": [],
+    "ability": "Your opponent shuffles their hand into their deck and draws 3 cards.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Promo-A",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Unknown",
+        "rarity": "Unknown"
+      }
+    ],
+    "artist": "5ban Graphics",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "8",
+    "name": "Pokédex",
+    "hp": "",
+    "type": "Unknown Type",
+    "card_type": "Trainer - Item",
+    "evolution_type": "Item",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_008_EN.webp",
+    "attacks": [],
+    "ability": "Look at the top 3 cards of your deck.",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Promo-A",
+    "pack": "Pack Unknown",
+    "alternate_versions": [
+      {
+        "version": "Unknown",
+        "rarity": "Unknown"
+      }
+    ],
+    "artist": "Yuu Nishida",
+    "probability": {},
+    "crafting_cost": "Unknown"
+  }
+]

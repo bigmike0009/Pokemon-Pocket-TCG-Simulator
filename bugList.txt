@@ -1,0 +1,3 @@
+Using abilities isn't recalculated after energy is applied in the same turn.
+need to handle dying pokemon
+attacks that target multiple pokemon or benched pokemon need a special menu that works
