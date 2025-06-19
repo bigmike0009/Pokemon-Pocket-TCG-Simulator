@@ -18,3 +18,5 @@ for idx, deck in enumerate([player1_deck, player2_deck]):
 
 winner = game.run()
 print(f"Winner: {winner}")
+
+# The test decks now contain duplicate evolution chains (e.g., 2x Charmander, 2x Charmeleon, 2x Charizard, etc.) for evolution testing.

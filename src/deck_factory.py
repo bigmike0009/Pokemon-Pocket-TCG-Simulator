@@ -28,13 +28,28 @@ def get_pokemon_by_criteria(criteria_fn, limit=1):
     return results
 
 def create_real_test_deck():
-    """Create a test deck of 20 Pokémon cards using real data from CardList.json."""
-    # Example: pick 1 Fire basic, 1 Water basic, and fill the rest with basics
-    fire_pokemon = get_pokemon_by_criteria(lambda c: c.get('type') == 'Fire' and c.get('evolution_type') == 'Basic', 1)
-    water_pokemon = get_pokemon_by_criteria(lambda c: c.get('type') == 'Water' and c.get('evolution_type') == 'Basic', 1)
-    other_basics = get_pokemon_by_criteria(lambda c: c.get('evolution_type') == 'Basic', 18)
-    selected = fire_pokemon + water_pokemon + other_basics
-    # Remove duplicates by name, keep up to 2 copies per card
+    """Create a test deck of 20 Pokémon cards with duplicate evolution chains for testing evolution."""
+    # Hardcode two evolution chains: Charmander -> Charmeleon -> Charizard and Bulbasaur -> Ivysaur -> Venusaur
+    chain1 = [
+        get_pokemon_by_name('Charmander'),
+        get_pokemon_by_name('Charmeleon'),
+        get_pokemon_by_name('Charizard'),
+    ]
+    chain2 = [
+        get_pokemon_by_name('Bulbasaur'),
+        get_pokemon_by_name('Ivysaur'),
+        get_pokemon_by_name('Venusaur'),
+    ]
+    # Add two copies of each card in both chains
+    selected = []
+    for card in chain1 + chain2:
+        if card:
+            selected.extend([card, card])
+    # Fill to 20 cards with other basics if needed
+    if len(selected) < 20:
+        other_basics = get_pokemon_by_criteria(lambda c: c.get('evolution_type') == 'Basic' and c.get('name') not in [c['name'] for c in selected], 20 - len(selected))
+        selected.extend(other_basics)
+    # Build deck_cards with up to 2 copies per card
     name_counts = {}
     deck_cards = []
     for card in selected:
@@ -46,12 +61,8 @@ def create_real_test_deck():
             break
     # Use all element types found in the deck for energy
     energy_types = list({card.get('type') for card in selected if card.get('type')})
-    # Fallback to FIRE/WATER if not found
     if not energy_types:
-        energy_types = [ElementType.FIRE, ElementType.WATER]
+        energy_types = [ElementType.FIRE, ElementType.GRASS]
     if energy_types:
-        #map the element strings to their ElementType enum
         energy_types = [ElementType[type_str.upper()] for type_str in energy_types if type_str.upper() in ElementType.__members__]
-    
-
     return Deck(deck_cards, energy_types)

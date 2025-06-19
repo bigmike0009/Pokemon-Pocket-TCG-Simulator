@@ -302,12 +302,12 @@ class BoardView:
             print("\n".join(card_lines))
         print()
         if not game_state.current_player_idx == 0:
-            print(f"{Fore.RED}** OPPONENT'S TURN **{Style.RESET_ALL}")
+            print(f"{Fore.RED}      ****** OPPONENT'S TURN ******{Style.RESET_ALL}")
         # Draw middle section with scores
         print("-" * 110)
 
         if game_state.current_player_idx == 0:
-            print(f"{Fore.GREEN}** YOUR TURN **{Style.RESET_ALL}")
+            print(f"{Fore.GREEN}      ****** YOUR TURN ******{Style.RESET_ALL}")
         print()
         
         # Draw player's pokemon in one row

@@ -128,7 +128,7 @@ class ActivePokemon:
 
     def can_evolve(self, current_turn: int) -> bool:
         """Check if Pokemon can evolve this turn."""
-        return current_turn > self.turn_played
+        return current_turn > self.turn_played and current_turn > 2
 
     def attach_tool(self, tool: Tool) -> bool:
         """Attach a Pokemon Tool card.

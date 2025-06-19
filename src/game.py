@@ -278,7 +278,6 @@ class Game:
         if not hasattr(self, '_retreated_this_turn'):
             self._retreated_this_turn = {}
         self._retreated_this_turn.setdefault(self.state.current_player_idx, False)
-        self._reset_retreated_flags()
         self._used_supporter_this_turn = False
         # Only draw a card if not the very first turn
         if self.state.turn_number > 1:
@@ -369,10 +368,11 @@ class Game:
             self.board_view.render(self.state)
 
     def _get_player_options(self, player_idx: int) -> list:
-        """Generate a list of available actions for the current player as option dicts."""
         from colorama import Fore, Style
         player = self.state.players[player_idx]
         options = []
+        state = self.state
+        current_turn = state.turn_number
         # Example: view hand cards
         for i, card in enumerate(player.hand):
             # Always allow viewing
@@ -385,11 +385,11 @@ class Game:
             })
             # Play card option (Enter key, only for selected card)
             is_basic_pokemon = hasattr(card, 'evolution_type') and getattr(card, 'evolution_type', None) == 'Basic'
+            is_evolution = hasattr(card, 'evolution_type') and getattr(card, 'evolution_type', None) in ('Stage 1', 'Stage 2')
             can_play = False
             reason = ''
             if is_basic_pokemon:
                 # Can play if no active or bench has < 3
-                state = self.state
                 idx = player_idx
                 if not state.active_pokemon[idx]:
                     can_play = True
@@ -397,7 +397,29 @@ class Game:
                     can_play = True
                 else:
                     reason = 'Bench full'
-            # TODO: Add logic for other card types
+            elif is_evolution:
+                # Evolution playability logic
+                evolves_from = getattr(card, 'evolves_from', None)
+                print(f'This card is an evolution. Checking for {evolves_from}')
+
+                valid_targets = []
+                all_pokemon = []
+                if state.active_pokemon[player_idx]:
+                    all_pokemon.append(('Active', state.active_pokemon[player_idx]))
+                for j, poke in enumerate(state.benched_pokemon[player_idx]):
+                    all_pokemon.append((f'Bench {j+1}', poke))
+                
+                for label, poke in all_pokemon:
+                    print(f'Checking {label}: poke.card.name')
+                    if poke and poke.card.name.lower() == str(evolves_from).lower():
+                        print('Name matches:', poke.card.name)
+                    if poke and poke.card.name.lower() == str(evolves_from).lower() and poke.can_evolve(current_turn):
+                        valid_targets.append((label, poke))
+                if valid_targets:
+                    can_play = True
+                else:
+                    reason = 'No valid evolution target'
+                #input()
             # Only add Enter key for the currently selected card
             if self.state.active_hand_card[player_idx] == i:
                 options.append({
@@ -495,7 +517,6 @@ class Game:
         """Handle player actions during main phase."""
         if self.manual:
             import readchar
-           
             player = self.state.players[self.state.current_player_idx]
             while True:
                 # Always get fresh options for every keypress to reflect latest state
@@ -520,7 +541,7 @@ class Game:
                             continue
                         card_idx = selected['card_idx']
                         card = player.hand[card_idx]
-                        # Only handle Basic Pokémon for now
+                        # Basic Pokémon logic (unchanged)
                         if hasattr(card, 'evolution_type') and getattr(card, 'evolution_type', None) == 'Basic':
                             played = card.play(self.state, self.state.turn_number)
                             if played:
@@ -531,7 +552,71 @@ class Game:
                             else:
                                 print("Could not play this Pokémon (bench full or other rule).")
                                 continue
-                        # TODO: Add logic for other card types
+                        # Evolution logic: show menu to pick which Pokémon to evolve
+                        elif hasattr(card, 'evolution_type') and getattr(card, 'evolution_type', None) in ('Stage 1', 'Stage 2'):
+                            evolves_from = getattr(card, 'evolves_from', None)
+                            valid_targets = []
+                            all_pokemon = []
+                            if self.state.active_pokemon[self.state.current_player_idx]:
+                                all_pokemon.append(('Active', self.state.active_pokemon[self.state.current_player_idx]))
+                            for j, poke in enumerate(self.state.benched_pokemon[self.state.current_player_idx]):
+                                all_pokemon.append((f'Bench {j+1}', poke))
+                            for label, poke in all_pokemon:
+                                if poke and poke.card.name.lower() == str(evolves_from).lower() and poke.can_evolve(self.state.turn_number):
+                                    valid_targets.append({'label': label, 'poke': poke})
+                            if not valid_targets:
+                                print("No valid Pokémon to evolve.")
+                                continue
+                            # Show menu to pick which Pokémon to evolve
+                            options2 = []
+                            for i, entry in enumerate(valid_targets):
+                                poke = entry['poke']
+                                options2.append({
+                                    'key': str(i+1),
+                                    'dispkey': str(i+1),
+                                    'desc': f"Evolve {entry['label']}: {poke.name} (HP: {poke.hp})",
+                                    'group': 'evolve_target',
+                                    'poke': poke
+                                })
+                            options2.append({'key': '\x1b', 'dispkey': 'esc', 'desc': 'Cancel', 'group': 'cancel'})
+                            selected2 = self._run_menu(options2, "Select a Pokémon to evolve:")
+                            if not selected2 or selected2.get('group') == 'cancel':
+                                print("Evolution cancelled.")
+                                continue
+                            # --- Actual evolution implementation ---
+                            target_poke = selected2['poke']
+                            # Save references to transfer
+                            damage = target_poke.damage_counters
+                            energies = dict(target_poke.attached_energies)
+                            tool = target_poke.attached_tool
+                            # Remove status
+                            target_poke.clear_status()
+                            # Remove lower evolution from board and send to discard
+                            # (Find if active or bench)
+                            is_active = (target_poke is self.state.active_pokemon[self.state.current_player_idx])
+                            # Create new evolved ActivePokemon
+                            from .active_pokemon import ActivePokemon
+                            evolved = ActivePokemon(card, self.state.turn_number)
+                            evolved.damage_counters = damage
+                            evolved.attached_energies = energies
+                            evolved.attached_tool = tool
+                            # Status is cleared by default
+                            # Replace on board
+                            if is_active:
+                                self.state.active_pokemon[self.state.current_player_idx] = evolved
+                            else:
+                                bench = self.state.benched_pokemon[self.state.current_player_idx]
+                                for idx, poke in enumerate(bench):
+                                    if poke is target_poke:
+                                        bench[idx] = evolved
+                                        break
+                            # Discard lower evolution
+                            player.discard_card(target_poke.card)
+                            # Remove evolution card from hand
+                            player.hand.pop(card_idx)
+                            self.state.sync_hands_with_players()
+                            print(f"{target_poke.name} evolved into {card.name}!")
+                            continue
                     elif selected['group'] == 'assign_energy':
                         if not selected.get('enabled', True):
                             print("No energy available to assign.")
