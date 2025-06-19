@@ -32,6 +32,8 @@ You can run the main simulation or tests:
 ```sh
 python test_manual_game.py
 ```
+To adjust deck composition see ```src/deck_factory.py```
+
 
 ---
 
