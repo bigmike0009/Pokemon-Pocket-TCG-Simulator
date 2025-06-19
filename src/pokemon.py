@@ -18,6 +18,8 @@ class Pokemon(Card):
         self.weakness = card_data.get('weakness')
         self.retreat_cost = int(card_data.get('retreat', 0))
         self.is_ex = card_data.get('ex', 'No') == 'Yes'
+        #json data will have line like: "card_type": "Pokémon - Stage 1 - Evolves from Bidoof",
+        self.evolves_from = False if not 'evolves from' in card_data['card_type'].lower() else card_data['card_type'].lower().split('evolves from ')[-1]
         
         # Parse attacks
         self.attacks = self._parse_attacks(card_data.get('attacks', []))
