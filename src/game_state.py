@@ -217,7 +217,7 @@ class GameState:
         if target.is_knocked_out():
             # If owner_idx is not provided, default to opponent of current player (legacy)
             if owner_idx is None:
-                owner_idx = 1 - self.current_player_idx
+                owner_idx = self.current_player_idx
             # Increment score
             self.scores[owner_idx] += target.calculate_points()
             # Remove from field

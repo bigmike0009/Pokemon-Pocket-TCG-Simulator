@@ -278,6 +278,7 @@ class Game:
         if not hasattr(self, '_retreated_this_turn'):
             self._retreated_this_turn = {}
         self._retreated_this_turn.setdefault(self.state.current_player_idx, False)
+        self._reset_retreated_flags()
         self._used_supporter_this_turn = False
         # Only draw a card if not the very first turn
         if self.state.turn_number > 1:

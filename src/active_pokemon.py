@@ -157,15 +157,27 @@ class ActivePokemon:
                 return False
         # Check energy requirements
         attached = self.attached_energies.copy()
-        for energy in attack.get('cost', []):
-            # If cost is a string, convert to ElementType
+        cost = attack.get('cost', [])
+        colorless_count = 0
+        # First, satisfy all colored energy requirements
+        for energy in cost:
             if not isinstance(energy, ElementType):
                 try:
                     energy = ElementType[energy.upper()]
                 except Exception:
+                    if str(energy).upper() == 'COLORLESS':
+                        colorless_count += 1
+                        continue
                     return False
+            if energy.name == 'COLORLESS':
+                colorless_count += 1
+                continue
             if attached.get(energy, 0) > 0:
                 attached[energy] -= 1
             else:
+                return False
+        # Now check if we have enough remaining energies for colorless
+        if colorless_count > 0:
+            if sum(attached.values()) < colorless_count:
                 return False
         return True
